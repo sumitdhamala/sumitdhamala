@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Daily Tracker<br>I'm looking for help with flutter animation<br>I'm currently learning flutter<br>fun fact is this isn't funny  
+I'm currently working on Daily Tracker<br>I'm looking for help with flutter animations<br>I'm currently learning flutter<br>fun fact is i am funny 
 
 
 ## 🌐 Socials:
